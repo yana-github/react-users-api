@@ -1,0 +1,11 @@
+.user{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: beige;
+    padding: 20px;
+    margin: 10px;
+    border:  2px solid grey;
+    font-size: 15px;
+}
